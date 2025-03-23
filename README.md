@@ -1,6 +1,6 @@
 ---
 
-# 🇵🇹✨ **Portugal Travel Guide** ✨🇵🇹  
+# ✨ **Portugal Travel Guide** ✨ 
 
 Welcome to the **Portugal Travel Guide!** 🌊🏰 This interactive website is your gateway to experiencing the beauty, culture, and history of Portugal. Whether you're planning a real adventure or exploring from the comfort of your home, this platform will take you on a journey through Portugal’s most captivating destinations. 🌞🍷  
 
@@ -16,10 +16,7 @@ The **Portugal Travel Guide** is a **Next.js**-powered web application that deli
 
 🎨 **Interactive UI Components** – Engaging and animated elements that make exploring fun!  
 📸 **Destination Cards** – Beautifully designed cards with high-quality images and in-depth descriptions.  
-📱 **Mobile-Friendly Design** – Fully responsive for seamless browsing on any device.  
-🌌 **Parallax Effects** – Immersive scrolling effects to add depth and excitement.  
-📚 **Detailed Travel Info** – Must-visit spots, hidden gems, and essential tips included!  
-
+📱 **Mobile-Friendly Design** – Fully responsive for seamless browsing on any device.   
 ---
 
 ## 🛠️ **Technologies Used**  
@@ -72,13 +69,10 @@ We’d love your help to make this project even better! 🤝
 ## 📜 **License**  
 
 This project is licensed under the **MIT License**.  
-For more details, please see the [LICENSE.txt](LICENSE) file. 📄  
+For more details, please see the [LICENSE](LICENSE.txt) file. 📄  
 
 ---
 
 ## 🌴 **Discover Portugal Now!** 🌴  
-
-Get ready to explore Portugal’s rich culture, scenic beauty, and warm hospitality! 🧳✨  
-Ready to dive in? Let's go! 🗺️🏄  
-
+ 
 --- 
