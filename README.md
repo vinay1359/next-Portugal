@@ -16,7 +16,8 @@ The **Portugal Travel Guide** is a **Next.js**-powered web application that deli
 
 🎨 **Interactive UI Components** – Engaging and animated elements that make exploring fun!  
 📸 **Destination Cards** – Beautifully designed cards with high-quality images and in-depth descriptions.  
-📱 **Mobile-Friendly Design** – Fully responsive for seamless browsing on any device.   
+📱 **Mobile-Friendly Design** – Fully responsive for seamless browsing on any device.  
+ 
 ---
 
 ## 🛠️ **Technologies Used**  
@@ -71,8 +72,3 @@ We’d love your help to make this project even better! 🤝
 This project is licensed under the **MIT License**.  
 For more details, please see the [LICENSE](LICENSE.txt) file. 📄  
 
----
-
-## 🌴 **Discover Portugal Now!** 🌴  
- 
---- 
